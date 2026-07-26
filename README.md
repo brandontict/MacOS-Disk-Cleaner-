@@ -8,7 +8,8 @@ No installs, no dependencies, no daemon running in the background. One file, pur
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║          macOS Disk Cleaner - Preview Before Delete          ║
+║          macOS Disk Cleaner - Smart Purge<img width="1418" height="819" alt="macos_diskcleaner" src="https://github.com/user-attachments/assets/b2aafef1-e3b5-4cf8-b1a7-e4aaa7ec496f" />
+         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -117,27 +118,7 @@ MIN_FILE_SIZE_REPORT = 1024 * 1024     # ignore anything smaller than 1 MB
 
 ## Example session
 
-```
-🔍 SCANNING YOUR MAC FOR CLEANABLE FILES
-  Scanning: Trash... 2.10 GB
-  Scanning: User Application Caches... 4.75 GB
-  Scanning: Browser Caches... 1.20 GB
-  ...
 
-📊 SCAN RESULTS - REVIEW BEFORE DELETING
-Total Potential Space Recovery: 18.44 GB
-
-📁 Xcode Data: 9.80 GB
-📁 User Application Caches: 4.75 GB
-...
-
-🧹 INTERACTIVE CLEANUP
-📁 Trash
-   Size: 2.10 GB   Items: 14
-   Delete this category? (y/n/v/q):
-```
-
----
 
 ## License
 
@@ -147,4 +128,4 @@ Provided **as is, with no warranty**. If it deletes something you wanted, that's
 
 ---
 
-*Built by Brandon / Wichita Computer Solutions.*
+*Built by Brandon / WichitaComputerSolutions.com *
