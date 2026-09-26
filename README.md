@@ -1,4 +1,7 @@
 # mac_cleaner.py
+I needed to remove all of the temp files and such on my Macbook Pro. Came up with this easy python script. Probably create one in bash , one day . 
+
+For now , 
 
 A safe, **preview-first** disk-space recovery tool for macOS. It scans the folders that quietly eat gigabytes — caches, logs, old downloads, dev-tool leftovers, iOS backups, Docker data — shows you exactly what it found, and **deletes nothing until you confirm each category by hand.**
 
